@@ -1,0 +1,27 @@
+
+body{
+    margin-top: 50px;
+    background-color: rgb(137, 225, 225);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+h3{
+    font-family:cursive;
+    color: rgb(237, 25, 25);
+    text-shadow: 2px rgb(225, 209, 209);
+} 
+button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(245, 135, 199);
+    font-size: large;
+    border-radius: 10px;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+p{
+    margin: 50px;
+    font-size: larger;
+}
